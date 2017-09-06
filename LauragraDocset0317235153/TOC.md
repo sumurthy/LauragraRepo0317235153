@@ -98,6 +98,7 @@
 ### [Extend Excel functionality](excel/excel-add-ins-extend-excel.md)
 ### [Work with Worksheets](excel/excel-add-ins-worksheets.md)
 ### [Work with Ranges](excel/excel-add-ins-ranges.md)
+### [Format Ranges](excel/excel-add-ins-range-format.md)
 ### [Work with Tables](excel/excel-add-ins-tables.md)
 ### [Work with Charts](excel/excel-add-ins-charts.md)
 ### [Work with Events](excel/excel-add-ins-events.md)
@@ -107,9 +108,12 @@
 ### Protect data
 ### Perform calculations
 ### Apply conditional formatting
-### Format a range
-### Handle events
-### ...
+### Manage bindings
+### Manage styles
+### Manage Document properties
+### Manage Custom XML Parts
+### Data Validation
+### Worksheet Functions
 ## [Excel JavaScript API reference](https://dev.office.com/reference/add-ins/excel/excel-add-ins-reference-overview.md)
 # [Outlook](https://docs.microsoft.com/outlook/add-ins/)
 # [PowerPoint](powerpoint/powerpoint-add-ins.md)
